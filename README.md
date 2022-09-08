@@ -1,2 +1,2 @@
-# BigDataLessons2022
-for IT Innovations Students
+# Big DataLessons 2022
+For IT Innovations Students (UrFU)
